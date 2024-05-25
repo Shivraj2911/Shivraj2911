@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivraj611
-- 👀 I’m interested in python,java,javascript
+- 👀 I’m interested in java,selenium,SQL,Python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫  You Can Contact me at shivrajgupta611@gmail.com
